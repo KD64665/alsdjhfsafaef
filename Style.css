@@ -1,0 +1,25 @@
+*{margin: 0; padding:0;}
+
+h1{background-color: #FF9B9B;
+color:black;}
+h2{background-color: #FF9B9B;
+color:black;}
+
+body{
+	background-color: #ffdbe8;
+	font-size: 15pt;
+	color: #555454;}
+
+.container{
+	width:80%;
+	background-color:#F49B9B;
+	font-family: 'Raleway', sans-serif;
+	margin:auto;
+	padding: 20px;
+	text-align: center;}
+
+ul li{
+	background-color: red;
+	width: 50%;
+	color: black;
+}
