@@ -5,6 +5,12 @@ color:black;}
 h2{background-color: #ffdbe8;
 color:555454;}
 
+h3{background-color: white;
+width: 70%;
+text-align: center;
+padding: 20px;
+margin:auto;
+}
 body{
 	background-color: #FF9B9B;
 	font-size: 15pt;
